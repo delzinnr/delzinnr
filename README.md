@@ -1,7 +1,7 @@
 ## Olá! Eu sou o André Luis 👋
 
 - 🔭 I'm currently just studying but looking for an opportunity.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React and React Native.
 - 😄 Pronouns: he/his
 
 <div>
