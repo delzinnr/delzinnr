@@ -5,8 +5,8 @@
 - 😄 Pronouns: he/his
 
 <div>
-  <a href="https://github.com/andreluisnr">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=andreluisnr&show_icons=true&theme=midnight-purple"/>
+  <a href="https://github.com/delzinnr">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=delzinnr&show_icons=true&theme=midnight-purple"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple"/>
 </div>
 
